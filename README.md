@@ -1,9 +1,6 @@
 # Amazona ECommerce Website
 ![amazona](/template/images/amazona.jpg)
 
-## PLEASE DO NOT SEND PULL REQUEST
-## ALL PRs WILL BE REJECTED UNTIL DECEMBER 2020
-
 # React & Node Tutorial - Full ECommerce in 9 Hours [2021]
 
 Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
@@ -30,7 +27,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
+$ git clone git@github.com:mashtechk/amazona.git
 $ cd amazona
 ```
 
@@ -76,7 +73,7 @@ $ npm start
 ## Support
 
 - Q/A: https://webacademy.pro/amazona
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
+- Contact Instructor: [Marshall](mailto:mashtechk@gmail.com)
 
 ## Lessons
 
